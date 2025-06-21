@@ -6,7 +6,6 @@ public class Democlass {
 			System.out.println("New class");
 			System.out.println("User1 working");
 			System.out.println("User2 working");
-			System.out.println("revert code");
 	
 		}
 
